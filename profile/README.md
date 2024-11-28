@@ -2,17 +2,20 @@
 To everyone who needs to organize their digital wallet, EasyFin is a financial registry which helps you to keep track of your money. Better than other solutions like Mobilis, you don't need another app to use EasyFin, you can easily note your buys and see a week or month report just inside WhatsApp, an app everyone already has and uses all the time.
 
 # Features
-- Annotate the purchase with:
+- Annotate the transaction with:
   - Description
   - Value
   - Type of payment
   - Bank
   - Date (of today is optional, but if it's from another day, put the full date)
-- Autoset of purchase category with AI
+- Autoset of transaction category with AI
+- Autoset of type category with AI (expense or income)
 - Get the report
 - Easy register
 - Invite someone to use the solution
 - Share your wallet with a family member or friend
+- Inform your payment type preference (like bank and/or payment method (credit/debit/voucher))
+- Visualize/Edit/Delete in a custom web view for each report asked
 - Ask for help
 - Delete account
 
