@@ -55,14 +55,17 @@ To everyone who needs to organize their digital wallet, EasyFin is a financial r
 11. Delete account: <br>
     - A confirmation message will be shown and you just have to say:
         - "yes" if you really want to delete it, or
-        - "no" to cancel the operation and keep using it.
+        - "no" to cancel the operation and keep using it. 
 
 </details>
 
 ---
 
 <details>
-     ![diagram](./.assets/diagram.png)
+     <summary> <h2>Architecture</h2> </summary>
+
+![](.assets/diagram.png)
+
 </details>
      
 ---
