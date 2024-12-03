@@ -58,6 +58,12 @@ To everyone who needs to organize their digital wallet, EasyFin is a financial r
         - "no" to cancel the operation and keep using it.
 
 </details>
+
+---
+
+<details>
+     ![diagram](./.assets/diagram.png)
+</details>
      
 ---
 
