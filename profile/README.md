@@ -85,5 +85,6 @@ graph TD
     H --> I[<u>**🎉 Oct 11, 2024**</u> <br> Release v0.1.0]
     I --> J[<u>**🏃🏽 Oct 25, 2024**</u> <br> First Partnership with <a href="https://github.com/raphaelbs">@raphaelbs</a> ]
     J --> K[<u>**🤪 Nov 01, 2024**</u> <br> Finished the First big refactoring ]
+    K --> L[<u>**🍾 Nov 29, 2024**</u> <br> Welcome to Microsoft for Startups Founders Hub]
 ```
 </details>
