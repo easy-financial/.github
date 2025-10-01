@@ -2,12 +2,11 @@
 To everyone who needs to organize their digital wallet, EasyFin is a financial registry which helps you to keep track of your money. Better than other solutions like Mobilis, you don't need another app to use EasyFin, you can easily note your buys and see a week or month report just inside WhatsApp, an app everyone already has and uses all the time.
 
 # Features
-- Annotate the transaction with:
-  - Description
-  - Value
-  - Type of payment
-  - Bank
-  - Date (of today is optional, but if it's from another day, put the full date)
+- Annotate a transaction by:
+  - Text
+  - Audio
+  - Image
+  - Document (csv, xlsx, xls)
 - Autoset of transaction category with AI
 - Autoset of type category with AI (expense or income)
 - Get the report
@@ -19,11 +18,13 @@ To everyone who needs to organize their digital wallet, EasyFin is a financial r
 - Ask for help
 - Delete account
 
+### The B2B2C strategy is coming...
+
 <details>
       <summary> <h2>Usage</h2> </summary>
   
 1. To start using the solution:
-     - Start a conversation in whatsapp with us, you can start with an "hello".
+     - Start a conversation in [whatsapp](https://wa.me/553171590084) with us, you can start with an "hello".
 2. Register yourself: 
      - We need to inform just your name (how you like to be called) and your birthday date 
 3. Annotate your first purchase, like:
@@ -79,12 +80,13 @@ graph TD
     B --> C[<u>**🔎 Aug 20, 2024**</u> <br> Starting use InfoBip Platform and the First Test Interaction]
     C --> D[<u>**🔬 Aug 21, 2024**</u> <br> First Message in the Test Number]
     D --> E[<u>**💼 Sep 3, 2024**</u> <br> First Task in the GoLive Project]
-    E --> F[<u>**✅ Set 26, 2024**</u> <br> Official Number approved by Meta]
-    F --> G[<u>**📨 Set 27, 2024**</u> <br> First Message in the Official Number]
+    E --> F[<u>**✅ Sep 26, 2024**</u> <br> Official Number approved by Meta]
+    F --> G[<u>**📨 Sep 27, 2024**</u> <br> First Message in the Official Number]
     G --> H[<u>**🚀 Oct 9, 2024**</u> <br> First Deploy in the Azure WebApp]
     H --> I[<u>**🎉 Oct 11, 2024**</u> <br> Release v0.1.0]
-    I --> J[<u>**🏃🏽 Oct 25, 2024**</u> <br> First Partnership with <a href="https://github.com/raphaelbs">@raphaelbs</a> ]
-    J --> K[<u>**🤪 Nov 01, 2024**</u> <br> Finished the First big refactoring ]
-    K --> L[<u>**🍾 Nov 29, 2024**</u> <br> Welcome to Microsoft for Startups Founders Hub]
+    I --> J[<u>**🍾 Nov 29, 2024**</u> <br> Welcome to Microsoft for Startups Founders Hub]
+    J --> K[<u>**🍾 Jul 31, 2025**</u> <br> Let's go to Hacktown in Santa Rita do Sapucaí]
+    K --> L[<u>**🚀 Sep 22, 2025**</u> <br> Delivery the B2B2C MVP]
+    L --> M[<u>**🍾 Sep 23, 2025**</u> <br> Let's go to First WhatsApp AI Startup Hub]
 ```
 </details>
